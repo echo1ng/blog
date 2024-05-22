@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'ECHO',
   author: 'echo1ng',
-  email: 'echowavee@outlook.com',
+  email: 'i@craigary.net',
   link: 'https://echo1ng.com',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
